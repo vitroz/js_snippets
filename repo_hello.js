@@ -1,0 +1,1 @@
+console.log('script from js_snippets repo');
